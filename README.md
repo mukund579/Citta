@@ -24,7 +24,7 @@ Citta is a cross-platform AI-powered emotional companion designed to provide mea
 •	Frontend: Next.js 14, React, TypeScript, Tailwind CSS
 •	Backend: Node.js, Express, TypeScript
 •	Database: PostgreSQL
-•	Payments: Stripe
+•	Payments: Razorpay
 •	AI: OpenAI GPT API or equivalent
 •	Localization: next-i18next / react-i18next
 
